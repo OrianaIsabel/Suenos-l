@@ -1,4 +1,4 @@
- Aquí va el código.
+% Aquí va el código.
 cree(gabriel, campanita).
 cree(gabriel, magoDeOz).
 cree(gabriel, cavenaghi).
